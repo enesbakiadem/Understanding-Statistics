@@ -4,7 +4,7 @@ This project explores how data can be misleading — even when it is technically
 
 ## 📄 Presentation
 
-[View the presentation](./Understanding Statistics.pdf)
+[View the presentation](./Understanding_Statistics.pdf)
 
 ## 🎯 Goal
 
