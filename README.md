@@ -1,6 +1,6 @@
 # Understanding Statistics: How Data Can Mislead
 
-This project explores how data can be misleading — even when it is technically correct.
+This project is a short data-literacy presentation about how statistics can mislead, even when the underlying data is technically correct.
 
 ## 📄 Presentation
 
@@ -8,7 +8,7 @@ This project explores how data can be misleading — even when it is technically
 
 ## 🎯 Goal
 
-The goal of this project is to show how common statistical concepts can lead to misleading interpretations — and how to recognize them.
+The goal of this project is to explain how common statistical concepts can lead to misleading interpretations — and how to recognize them.
 
 ## 📊 Topics Covered
 
@@ -23,6 +23,12 @@ The goal of this project is to show how common statistical concepts can lead to 
 Understanding data is no longer optional.
 
 Misleading statistics can influence opinions, decisions, and public perception within seconds.
+
+## 🌍 Context
+
+This presentation was created for a political science class at Abendgymnasium Göttingen.
+
+It was designed to explain how statistics can shape public perception and why data literacy matters in political and social debates.
 
 ## 📌 Takeaway
 
